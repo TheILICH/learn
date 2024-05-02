@@ -3,7 +3,7 @@
         "taskDefinitionArn": "arn:aws:ecs:us-east-1:058264218430:task-definition/learn:${TAG}",
         "containerDefinitions": [
             {
-                "name": "learn:${TAG}",
+                "name": "learn",
                 "image": "058264218430.dkr.ecr.us-east-1.amazonaws.com/learn:${TAG}",
                 "cpu": 0,
                 "portMappings": [

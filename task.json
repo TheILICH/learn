@@ -3,7 +3,7 @@
         "taskDefinitionArn": "arn:aws:ecs:us-east-1:058264218430:task-definition/learn:4739801",
         "containerDefinitions": [
             {
-                "name": "learn:4739801",
+                "name": "learn",
                 "image": "058264218430.dkr.ecr.us-east-1.amazonaws.com/learn:4739801",
                 "cpu": 0,
                 "portMappings": [
