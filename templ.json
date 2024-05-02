@@ -1,6 +1,6 @@
 {
     "taskDefinition": {
-        "taskDefinitionArn": "arn:aws:ecs:us-east-1:058264218430:task-definition/learn",
+        "taskDefinitionArn": "arn:aws:ecs:us-east-1:058264218430:task-definition/learn:${TAG}",
         "containerDefinitions": [
             {
                 "name": "learn:${TAG}",
