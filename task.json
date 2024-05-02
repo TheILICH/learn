@@ -1,10 +1,10 @@
 {
     "taskDefinition": {
-        "taskDefinitionArn": "arn:aws:ecs:us-east-1:058264218430:task-definition/learn",
+        "taskDefinitionArn": "arn:aws:ecs:us-east-1:058264218430:task-definition/learn:4739801",
         "containerDefinitions": [
             {
-                "name": "learn:a7681a6",
-                "image": "058264218430.dkr.ecr.us-east-1.amazonaws.com/learn:a7681a6",
+                "name": "learn:4739801",
+                "image": "058264218430.dkr.ecr.us-east-1.amazonaws.com/learn:4739801",
                 "cpu": 0,
                 "portMappings": [
                     {
